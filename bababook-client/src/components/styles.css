@@ -1,0 +1,26 @@
+/* 
+--clr-primary-a0: #18fa38;
+--clr-primary-a10: #55fc56;
+--clr-primary-a20: #75fd6e;
+--clr-primary-a30: #8ffe84;
+--clr-primary-a40: #a5ff99;
+--clr-primary-a50: #b9ffae;
+
+--clr-surface-a0: #121212;
+--clr-surface-a10: #282828;
+--clr-surface-a20: #3f3f3f;
+--clr-surface-a30: #575757;
+--clr-surface-a40: #717171;
+--clr-surface-a50: #8b8b8b;
+
+--clr-surface-tonal-a0: #1a2618;
+--clr-surface-tonal-a10: #2f3a2d;
+--clr-surface-tonal-a20: #465044;
+--clr-surface-tonal-a30: #5e675c;
+--clr-surface-tonal-a40: #767e75;
+--clr-surface-tonal-a50: #90978f;
+
+.bg-primary {
+ color: var(--clr-primary-a50); 
+ background-color: var(--clr-surface-a0); 
+} */
