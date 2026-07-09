@@ -1,4 +1,4 @@
-# 📚 BaBaBook
+# BaBaBook
 
 **A full-stack web-based e-book library platform connecting readers, librarians, and administrators.**
 
@@ -26,7 +26,7 @@ It was originally developed as an undergraduate research project at Cavite State
 
 ## Features
 
-### 👤 Reader
+### Reader
 - Browse and search books from two sources: the Google Books catalog and titles uploaded by partner libraries
 - Filter by genre, language, sort order, and print type
 - Save books to a personal reading list
@@ -37,14 +37,14 @@ It was originally developed as an undergraduate research project at Cavite State
 - Find nearby libraries on an interactive map with location search (Leaflet + OpenStreetMap)
 - Manage personal account settings
 
-### 📖 Librarian
+### Librarian
 - Register a library account with a name and address — the account stays in a **pending** state (with a dedicated waiting screen) until an admin approves it
 - Upload new books with full metadata and an optional PDF file
 - Edit, delete, or bulk-delete books from the library's catalog
 - Review incoming borrow requests from readers and approve (with a due date) or reject them
 - Dashboard overview of library activity
 
-### 🛠️ Admin
+### Admin
 - A system admin account is created automatically the first time the server starts (see [Default Admin Account](#default-admin-account))
 - Review and approve/reject pending librarian applications
 - View and manage all registered users, including changing a user's role or removing an account (admin accounts are protected from deletion or demotion)
@@ -227,9 +227,3 @@ This was built as a research/capstone project, and a few tradeoffs came with the
 ## License
 
 This project does not currently have an open-source license. All rights are reserved by the author.
-
-## Acknowledgments
-
-- Built by [Franklin Gian G. Sarmiento](https://github.com/var-franklin)
-- Book cover images used for demo/display purposes belong to their respective publishers/copyright holders
-- Powered by the [Google Books API](https://developers.google.com/books) and [OpenStreetMap](https://www.openstreetmap.org/)
